@@ -16,3 +16,20 @@ img{
 .vertical{
     height: 500px;
 }
+
+::-webkit-scrollbar{
+    width: 5px;
+}
+::-webkit-scrollbar-track{
+    border:1px solid #0071BD;
+    border-radius: 8px;
+    /* background: #0071BD; */
+}
+::-webkit-scrollbar-thumb{
+    border:1px solid gray;
+    border-radius: 8px;
+    background: #0071BD;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: #0071BD;
+}
