@@ -33,3 +33,9 @@ img{
 ::-webkit-scrollbar-thumb:hover{
     background: #0071BD;
 }
+.color{
+    
+    border-top-left-radius: 50px;
+   
+    border-bottom-left-radius: 50px;
+}
